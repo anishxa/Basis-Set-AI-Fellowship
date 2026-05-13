@@ -1,7 +1,5 @@
 # Basis Set AI Fellowship - BAML Deep Dive
 
-This repository contains a project exploring **BAML (Basic AI Modeling Language)** for structured news article analysis.
-
 ## Overview
 
 The project leverages BAML to extract structured data from news articles using Large Language Models (specifically Llama 3.1 via Groq). The analysis includes:
