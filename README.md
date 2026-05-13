@@ -22,7 +22,7 @@ The project leverages BAML to extract structured data from news articles using L
 
 ## Setup
 
-1. **Install BAML**: Follow the instructions at [boundary.ml](https://www.boundary.ml/).
+1. **Install BAML**: Follow the instructions at [boundaryml.com](https://boundaryml.com).
 2. **Environment Variables**: Set your `GROQ_API_KEY`.
 3. **Run the Notebook**: Open `bsv_baml_deepdive.ipynb` to see the analysis in action.
 
