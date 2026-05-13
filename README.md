@@ -1,4 +1,4 @@
-# Basis Set AI Fellowship - BAML Deep Dive
+# Basis Set AI Fellowship
 
 ## What is this?
 
