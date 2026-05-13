@@ -1,10 +1,10 @@
 # Basis Set AI Fellowship
 
-## What is this?
+## Focus
 
 This project uses a tool called **BAML** to help computers understand news articles better. Instead of just reading a story, the computer breaks it down into clear, organized information.
 
-## What does it do?
+## Implementation
 
 When you give the computer a news article, it automatically figures out:
 
@@ -15,13 +15,13 @@ When you give the computer a news article, it automatically figures out:
 - **Hidden Bias**: It looks for words that might show the writer is taking sides.
 - **A Better Headline**: It rewrites the title to be more fair and simple.
 
-## What’s inside?
+## Pipeline
 
 - `baml_src/`: The instructions we gave the computer on how to analyze the news.
 - `bsv_baml_deepdive.ipynb`: A file that shows exactly how everything works and displays the results.
 - `*.png`: Pictures (charts and graphs) that show what the computer found.
 
-## How to use it
+## How to use it?
 
 1. **Get the Tool**: Download the BAML tool from [boundaryml.com](https://boundaryml.com).
 2. **Set your Key**: You'll need a "secret key" (GROQ_API_KEY) to let the computer talk to the AI.
